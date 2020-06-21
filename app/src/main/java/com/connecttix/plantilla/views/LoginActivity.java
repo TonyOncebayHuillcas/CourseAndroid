@@ -19,7 +19,6 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
         holamundo = (TextView) findViewById(R.id.tv_holamundo);
-
         holamundo.setText("Texto de prueba");
 
     }

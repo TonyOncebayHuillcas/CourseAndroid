@@ -1,8 +1,10 @@
-package com.connecttix.plantilla;
+package com.connecttix.plantilla.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.connecttix.plantilla.R;
 
 public class MainActivity extends AppCompatActivity {
 
